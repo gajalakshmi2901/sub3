@@ -1,0 +1,7 @@
+def sol(x,y):
+ if x>y:
+  print " X"
+ else:
+  print "Y"
+sol(5,10)
+   
