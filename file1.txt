@@ -4,4 +4,4 @@ def sol(x,y):
  else:
   print "Y"
 sol(5,10)
-   
+   ...
